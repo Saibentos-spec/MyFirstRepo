@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello! My name is Saiba Moise. I am passionate about technology, especially backend development and IT support. I'm actively learning Python and GitHub to enhance my software engineering skills.
+
+Outside of tech, I run community support projects and enjoy mentoring others. This file is part of my journey through a GitHub learning exercise.
